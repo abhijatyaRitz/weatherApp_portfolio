@@ -1,0 +1,5 @@
+Project structure:
+- models: Duplicate projection of the data classes contained by the api
+- controller: Code telling the fetching/storing/showing of the data in the app
+- screens
+- widgets
